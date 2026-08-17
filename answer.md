@@ -32,7 +32,7 @@ Answer. git branch is a command used to see the selected and available branch na
 Answer. git checkout is used the change the selected branch in local repository.
 
 12. Why do developers create feature branches?
-Answer. From my point of view as much as i know devloper creats feature branchs because if they don't want to make changes directly in main branch and anothere reason could also be is if there are many developers working on one project and they have divided works for each other then they can easily do their work in different branches without messing up the codes in main branch.
+Answer. From my point of view as much as i know, devloper creats feature branchs because if they don't want to make changes directly in main branch and anothere reason could also be is if there are many developers working on one project and they have divided works for each other then they can easily do their work in different branches without messing up the codes in main branch.
 
 13. What is a Pull Request?
 Answer. Pull request is used to add the specific branch in main branch it is usually made by contributers to ask the owner of the repo to check their code and if there is no need to makes in the code then to merge it in main branch.
